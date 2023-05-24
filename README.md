@@ -8,3 +8,4 @@ It's a landmark's facial detector with pre-trained models, the dlib is used to e
 
 for new users they will need to register first click photo from webcam , add name and then after rerunning the code they'll be able to login directly. by clicking on the login button.
 also, we can see images of all the registered users in the images folder that is created automatically in the specified location.
+ 
